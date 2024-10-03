@@ -16,3 +16,18 @@ console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 let name = "sahil"
 let age = 18
 let isLoggined = false 
+
+/*
+premative datatypes -
+
+numbers => 2 to power 53
+ big int
+ string=> ""
+ boolean => true / false
+ null => standalone value
+ undefined =>
+    symbol=> unique
+*/
+console.log(typeof age);
+console.log(typeof undefined); // output is (undefined)
+console.log(typeof null); // output is (object)
