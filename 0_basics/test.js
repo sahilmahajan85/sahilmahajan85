@@ -32,7 +32,8 @@ console.log(typeof age);
 console.log(typeof undefined); // output is (undefined)
 console.log(typeof null); // output is (object)
 
-let score = 33
+let score = "33"
 
 let inNumber = Number(score)
 console.log(inNumber);
+console.log(typeof inNumber);
