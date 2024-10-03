@@ -11,3 +11,8 @@ accountCity = "Goa"
 console.log(accountEmail);
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
+
+// automatic datatype identifier
+let name = "sahil"
+let age = 18
+let isLoggined = false 
